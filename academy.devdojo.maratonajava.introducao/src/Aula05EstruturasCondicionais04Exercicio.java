@@ -1,4 +1,4 @@
-public class Aula05EstruturasCondicionais04 {
+public class Aula05EstruturasCondicionais04Exercicio {
     /**
      * <h1>Estruturas condicionais</h1>
      * <p>
