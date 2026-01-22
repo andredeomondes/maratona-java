@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Aula04Operadores {
     /**
      * <h1>Operadores</h1>

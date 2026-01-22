@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/academy.devdojo.maratonajava.introducao/academy.devdojo.maratonajava.introducao.iml" filepath="$PROJECT_DIR$/academy.devdojo.maratonajava.introducao/academy.devdojo.maratonajava.introducao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/maratona-java.iml" filepath="$PROJECT_DIR$/.idea/maratona-java.iml" />
     </modules>
   </component>

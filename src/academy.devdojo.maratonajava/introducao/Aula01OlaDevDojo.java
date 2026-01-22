@@ -1,4 +1,3 @@
-package academy.devdojo.maratonajava.introducao;
 /**
  * Isso é um comentário <b>javadoc</b>
  */
