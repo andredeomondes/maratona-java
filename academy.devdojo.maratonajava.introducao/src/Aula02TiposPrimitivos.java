@@ -1,4 +1,9 @@
 public class Aula02TiposPrimitivos {
+    /**
+     * <h1>Tipos primitivos</h1>
+     *
+     */
+
     public static void main(String[] args) {
         // int, double , float , chat, byte , short, long , boolean
         int idade = (int) 10000000000000L; // 4 bytes
