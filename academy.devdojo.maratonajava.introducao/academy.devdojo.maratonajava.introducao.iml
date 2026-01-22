@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../academy.devdojo.maratonajava.introducao.OlaDevDojo">
-      <sourceFolder url="file://$MODULE_DIR$/../academy.devdojo.maratonajava.introducao.OlaDevDojo/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../academy.devdojo.maratonajava.introducao">
+      <sourceFolder url="file://$MODULE_DIR$/../academy.devdojo.maratonajava.introducao/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="graalvm-jdk-21" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
