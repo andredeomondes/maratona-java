@@ -15,6 +15,7 @@ public class Aula05EstruturasCondicionais03 {
         // TERNÁRIO (condição) ? verdadeiro : falso
         String resultado = salario >5000 ? mensagemDoar : mensagemNaoDoar;
         System.out.println(resultado);
+        System.out.println(resultado);
 
 
 
